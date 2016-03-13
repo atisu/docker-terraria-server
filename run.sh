@@ -1,4 +1,3 @@
 #!/bin/sh
 
-cd terraria-server
-./TerrariaServer -x64
+./TerrariaServer -x64 -config serverconfig.txt
